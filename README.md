@@ -6,5 +6,5 @@
 <p align="justify">Imagenes de varios proyectos que realice, las imagenes son utilizadas para un mejor estilo de los archivos README de cada repositorio y mostrar visualmente parte del proyecto.</p>
 
 
-![alt text](https://raw.githubusercontent.com/KevoTHRASHER/Images-Github-Repositories/blob/main/Portafolio%20Boostrap/Portafolio%202.png?raw=true)
+![alt text](https://github.com/KevoTHRASHER/Images-Github-Repositories/blob/main/Portafolio%20Bootstrap/Portafolio%202.png?raw=true)
 
